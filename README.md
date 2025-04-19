@@ -8,7 +8,7 @@ Statistical analysis of VKontakte and Telegram message history.
 * [wordcloud](https://github.com/amueller/word_cloud)
 
 ### Installation
-* Use Python3.6. 3.7 version may not work properly.
+* Use Python 3.10 or higher.
 * `git clone https://github.com/vlajnaya-mol/message-analyser`
 * Install `requirements.txt`. (`pip install -r /path/to/requirements.txt`)
 
